@@ -5,7 +5,7 @@
    <img src="terminal.png">
 
 ### Sprawdzenie działania serwera Nginx
-1. Przeglądarka internetowa: Wejdź na 'http://localhost:4001'
+1. Przeglądarka internetowa: 'http://localhost:4001'
 
    Wynik: Wyświetla stronę startową PHP (phpinfo).
     <img src="4001.png">
